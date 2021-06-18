@@ -38,6 +38,11 @@
 				}
 			}
 			?>
+      <p>I'm THUVRAKAN THE IS GIT TUTORIAL</p>
+      <form>
+      <label for="">E-Mail</label>
+        <input type="text">
+      </form>
   </div>
 </div>
 
